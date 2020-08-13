@@ -49,11 +49,11 @@ game_hash = {
       :slam_dunks => 5
     }, 
     {
-      :player_name => "",
-      :number => ,
-      :shoe => ,
-      :points => ,
-      :rebounds => ,
+      :player_name => "Jason Terry",
+      :number => 31,
+      :shoe => 15,
+      :points => 19,
+      :rebounds => 2,
       :assists => ,
       :steals => ,
       :blocks => ,
