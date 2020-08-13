@@ -4,7 +4,8 @@ game_hash = {
         :team_name => "Brooklyn Nets" ,
     :colors => ["Black", "White"] ,
     :players =>  [
-      {:player_name => "",
+      {
+        :player_name => "",
       :number => ,
       :shoe => ,
       :points => ,
