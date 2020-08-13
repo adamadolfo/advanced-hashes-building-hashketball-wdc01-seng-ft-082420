@@ -25,7 +25,9 @@ game_hash = {
       :steals => ,
       :blocks => ,
       :slam_dunk => 
-    },{:player_name => "" ,
+    },
+    {
+      :player_name => "" ,
       :number => , 
       :shoe => ,
       :points => ,
@@ -34,7 +36,9 @@ game_hash = {
       :steals => ,
       :blocks => ,
       :slam_dunk =>
-    }, {:player_name => "",
+    }, 
+    {
+      :player_name => "",
       :number => ,
       :shoe => ,
       :points => ,
@@ -43,7 +47,9 @@ game_hash = {
       :steals => ,
       :blocks => ,
       :slam_dunk => 
-    }, {:player_name => "",
+    }, 
+    {
+      :player_name => "",
       :number => ,
       :shoe => ,
       :points => ,
@@ -52,7 +58,8 @@ game_hash = {
       :steals => ,
       :blocks => ,
       :slam_dunk => 
-    }] 
+    }
+    ] 
   }
 
   
