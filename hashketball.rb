@@ -7,7 +7,9 @@ def game_hash
       player: 
     },
     away: {
-      
+      team_name: ,
+      colors: ,
+      player: 
     }
   }
 end
