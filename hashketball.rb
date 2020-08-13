@@ -16,10 +16,10 @@ game_hash = {
       :slam_dunk => 1 
     },
     {
-      :player_name => "" ,
-      :number => ,
-      :shoe => ,
-      :points => ,
+      :player_name => "Reggie Evans" ,
+      :number => 30,
+      :shoe => 14,
+      :points => 12,
       :rebounds => ,
       :assists => ,
       :steals => ,
